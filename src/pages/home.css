@@ -1,0 +1,41 @@
+@media screen and (max-width:600px){
+    div{
+      
+        background-color: white;
+  
+    }
+
+}
+
+.two{
+    height: 280px;
+
+}
+/* 
+h2{
+    margin-right: 50%;
+    height: 30px;
+    
+} */ */
+button{
+    
+    width: 200px;
+    overflow: visible;
+}
+.th{
+    text-align: center;
+    text-transform: uppercase;
+    color: #141614
+}
+h2{
+    text-align: center;
+    text-transform: uppercase;
+    color: #1c1f1c
+}
+/* p{
+    text-align: center;
+    color: #131413;
+} */
+
+
+

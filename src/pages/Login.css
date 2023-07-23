@@ -1,0 +1,38 @@
+@media(max-width:900px){
+    .dl{
+        background-color: white;
+    }
+}
+.form2{
+    width: 500px;
+    margin-left: 10px;
+    margin-top: 70px;
+    border-color: black; 
+    
+}
+.form-control1{
+    height: 50px;
+    width: 300px;
+    margin-left: 30px;
+    border-radius: 8px;
+    text-align: center;
+}
+.form-group1{
+    margin-top: 30px;
+    width: 600px;
+}
+.form-control1:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.card{
+    width: 30%;
+    border-radius: 5px;
+    border-color: Ash;
+    height: 20%;
+    margin-top: 60px;
+    transition: 0.3s;
+    margin-right: 40px;
+    text-align: center;
+    
+
+}

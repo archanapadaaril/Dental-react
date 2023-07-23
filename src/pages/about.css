@@ -1,0 +1,40 @@
+@media(max-width:900px){
+    div{
+        background-color: white;
+  
+    }
+
+}
+.d1{
+    height: 180px;
+}
+h7{
+    margin-top: 500px;
+    color: black;
+    margin-right: 550px;
+    text-align: justify;
+
+}
+.para{
+    margin-left: 120px;
+    color: black;
+    width: 630px;
+    text-align: justify;
+    
+}
+.img{
+    margin-left: 700px;
+    margin-top: -300px;
+}
+.pa{
+    margin-left: 700px;
+    color: black;
+    margin-top: -300px;
+    width: 630px;
+    text-align: justify;
+    display: block;
+
+}
+.head3{
+    margin-top: 70px;
+}

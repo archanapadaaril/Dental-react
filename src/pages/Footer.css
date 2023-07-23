@@ -1,0 +1,27 @@
+@media(max-width:900px){
+    .d{
+        height: 850px;
+        background-color: white;
+  
+    }
+
+}
+
+section, footer {
+    background: #1A1E25;
+    color: #868c96;
+    
+    
+    }
+    
+    footer {
+    padding: 40px 0;
+    text-align: center;
+    margin-top: 600px;   
+    }
+    
+    footer img {
+    width: 44px;
+    }
+    
+ 
